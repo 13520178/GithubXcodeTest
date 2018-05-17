@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Step 1")
         print("Step 2")
+        print("Step 3")
     }
 
     override func didReceiveMemoryWarning() {
