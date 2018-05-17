@@ -54,14 +54,22 @@
 		1BAEB34920AD2C8A00C08976 /* GithubXcodeTest */ = {
 			isa = PBXGroup;
 			children = (
-				1BAEB34A20AD2C8A00C08976 /* AppDelegate.swift */,
+				1BAEB35C20AD2CA700C08976 /* Supporting Files */,
 				1BAEB34C20AD2C8A00C08976 /* ViewController.swift */,
 				1BAEB34E20AD2C8A00C08976 /* Main.storyboard */,
-				1BAEB35120AD2C8A00C08976 /* Assets.xcassets */,
-				1BAEB35320AD2C8A00C08976 /* LaunchScreen.storyboard */,
 				1BAEB35620AD2C8B00C08976 /* Info.plist */,
 			);
 			path = GithubXcodeTest;
+			sourceTree = "<group>";
+		};
+		1BAEB35C20AD2CA700C08976 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1BAEB34A20AD2C8A00C08976 /* AppDelegate.swift */,
+				1BAEB35120AD2C8A00C08976 /* Assets.xcassets */,
+				1BAEB35320AD2C8A00C08976 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
